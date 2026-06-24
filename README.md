@@ -1,4 +1,4 @@
-# AbilityAbstraction
+# Ability system
 
 An architectural guide and sample implementation for a highly versatile, reactive Ability System for Minecraft (Paper/Spigot).
 
