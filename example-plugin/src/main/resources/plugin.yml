@@ -1,0 +1,8 @@
+name: AbilityAbstraction
+version: '${version}'
+main: me.illusion.heroes.AbilityPlugin
+api-version: '1.21'
+commands:
+  hero:
+    description: Change your hero type
+    usage: /hero <type|none>
